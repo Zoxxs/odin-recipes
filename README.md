@@ -3,4 +3,4 @@
 First TOP project
 
 Making basic website using HTML basics learned so far,
-as well as utilizing GitHub im the process.
+as well as utilizing GitHub in the process.
